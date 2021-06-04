@@ -4,7 +4,7 @@
 
     <div align="center">
       <h1>Uer Index</h1>
-      <h2>เเนะนำวิธีการใช้งาน</h2>
+      <h2>เเนะนำวิธีการใช้งาน  User </h2>
     </div>
     
       <v-card>
